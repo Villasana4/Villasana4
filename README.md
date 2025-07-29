@@ -68,6 +68,7 @@ Me apasiona combinar lógica, diseño y tecnología para construir productos que
 - Apps completas: frontend + backend + base de datos
 - Interfaces cuidadas al detalle
 - Proyectos personales en constante mejora
+- Repos de práctica con tecnologías modernas
 - Mucha pasión por el código y el diseño ❤️
 
 ---
