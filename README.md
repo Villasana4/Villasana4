@@ -77,7 +77,7 @@ Me apasiona combinar lógica, diseño y tecnología para construir productos que
 
 Si quieres trabajar conmigo, platicar sobre UX, desarrollo, diseño o simplemente compartir ideas…
 
-**¡Conectemos!** Estoy abierta a nuevos retos, porque **el aprendizaje nunca se detiene** 🚀
+**¡Conectemos!** Estoy abierta a nuevos retos, porque **el aprendizaje nunca se detiene** 
 
 ---
 
