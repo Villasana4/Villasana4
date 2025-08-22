@@ -33,8 +33,8 @@ Soy desarrolladora **FullStack** con una pasión desbordante por aprender, dise�
 
 ### 💻 **Frontend**
 - **HTML**, **CSS**, **SCSS**, **Bootstrap**, **Tailwind CSS**
+- **JavaScript**, **TypeScript**
 - **Angular**, **React**, **Astro**
-- **TypeScript**
 
 ### 🧠 **Backend**
 - **.NET** con **C#**
