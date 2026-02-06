@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hola, soy Guadalupe Villasana</h1>
+<h1 align="center"><a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> Hola, soy Guadalupe Villasana</h1>
 
 <p align="center">
   <strong>FullStack Developer</strong> · <strong>UX/UI Designer</strong><br/>
