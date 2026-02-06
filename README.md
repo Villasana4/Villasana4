@@ -129,9 +129,12 @@
 
 ## 📊 Un poco de actividad
 
+
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Villasana4&show_icons=true&theme=tokyonight&hide_title=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Villasana4&theme=tokyo-night&hide_border=true" />
 </p>
+
+
 
 ---
 
@@ -145,7 +148,10 @@ Estoy abierta a:
 
 ✨ **¡Conectemos!** El aprendizaje nunca se detiene.
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:38B2AC,100:512BD4&height=2"/>
+</p>
+
 
 <p align="center">
   <em>“El diseño lo hace atractivo.  
