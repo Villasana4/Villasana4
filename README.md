@@ -1,85 +1,131 @@
+<h1 align="center">👋 Hola, soy Guadalupe Villasana</h1>
 
-<!--
-**Villasana4/Villasana4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>FullStack Developer</strong> · <strong>UX/UI Designer</strong><br/>
+  Apasionada por crear experiencias digitales funcionales, limpias y centradas en el usuario
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 👋 ¡Hola! Soy Guadalupe — FullStack Developer 💻 + UX/UI Designer 🎨
-
-Soy desarrolladora **FullStack** con una pasión desbordante por aprender, diseñar y crear experiencias digitales que realmente aporten valor.  
-¿Frontend? ¿Backend? ¿Bases de datos? ¿Diseño de interfaces? ¡Todo me lo aviento y con gusto! 😎
+<p align="center">
+  <a href="https://guadalupevillasana.com" target="_blank">🌐 Portafolio</a> •
+  <a href="https://github.com/Villasana4" target="_blank">💻 GitHub</a>
+</p>
 
 ---
 
 ## ✨ Sobre mí
 
-- 🚀 **FullStack Developer**: desde el pixel perfecto hasta el endpoint bien estructurado.
-- 🧠 **Autodidacta y apasionada**: siempre estoy aprendiendo algo nuevo.
-- 🎨 **Diseñadora UX/UI**: con certificaciones y experiencia en diseño centrado en el usuario.
-- 🛠️ **Amante del orden y la estética**: porque un buen código también puede ser bello.
+🚀 **Desarrolladora FullStack** con experiencia tanto en frontend como backend  
+🧠 **Autodidacta** y en aprendizaje constante  
+🎨 **Diseñadora UX/UI certificada**, enfocada en usabilidad y experiencia de usuario  
+🛠️ Me gusta el código limpio, el diseño ordenado y los proyectos bien pensados  
+
+> Creo en construir soluciones que no solo funcionen,  
+> sino que también sean fáciles de usar y agradables.
 
 ---
 
 ## 🧰 Tech Stack
 
-### 💻 **Frontend**
-- **HTML**, **CSS**, **SCSS**, **Bootstrap**, **Tailwind CSS**
-- **JavaScript**, **TypeScript**
-- **Angular**, **React**, **Astro**
+### 💻 Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white"/>
+</p>
 
-### 🧠 **Backend**
-- **.NET** con **C#**
-- He desarrollado APIs RESTful y servicios bien documentados
-- También tengo experiencia con **VB**, **C**, **C++** (porque lo retro también se respeta 😎)
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/>
+</p>
 
-### 🗃️ **Bases de datos**
-- **SQL Server** & **MySQL**
-
-### 🎨 **Diseño UX/UI**
-- Prototipado, diseño responsivo y enfoque en usabilidad
-- Herramientas: **Figma**, **Adobe XD**
-- Certificación en **UX** y **UI**
-
-### 🛠️ **Herramientas**
-- **Git & GitHub** 
-- **Visual Studio Code**
+<p>
+  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Astro-000000?logo=astro&logoColor=white"/>
+</p>
 
 ---
 
-## 💡 ¿Qué me mueve?
+### 🧠 Backend
+<p>
+  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white"/>
+</p>
+
+<p>
+  Experiencia desarrollando APIs REST, servicios backend y lógica de negocio.
+</p>
+
+<p>
+  <em>También he trabajado con VB, C y C++ (sí, lo clásico también cuenta 😄).</em>
+</p>
+
+---
+
+### 🗃️ Bases de Datos
+<p>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"/>
+</p>
+
+---
+
+### 🎨 UX / UI
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?logo=adobe-xd&logoColor=white"/>
+</p>
+
+- Diseño centrado en el usuario  
+- Prototipado y diseño responsivo  
+- Certificación en UX y UI  
+
+---
+
+### 🛠️ Herramientas
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white"/>
+</p>
+
+---
+
+## 📂 ¿Qué encontrarás en mis repositorios?
+
+✔️ Aplicaciones completas (frontend + backend + BD)  
+✔️ Interfaces cuidadas al detalle  
+✔️ Proyectos personales en constante mejora  
+✔️ Repos de práctica con tecnologías modernas  
+✔️ Código con enfoque en orden, claridad y mantenimiento  
+
+---
+
+## 💡 ¿Qué me motiva?
 
 > Aprender, mejorar y construir soluciones que ayuden a las personas.
 
-Me apasiona combinar lógica, diseño y tecnología para construir productos que no solo funcionen, sino que también sean **fáciles de usar y encanten**.
-
----
-
-## 📂 ¿Qué puedes encontrar en mis repos?
-
-- Apps completas: frontend + backend + base de datos
-- Interfaces cuidadas al detalle
-- Proyectos personales en constante mejora
-- Repos de práctica con tecnologías modernas
-- Mucha pasión por el código y el diseño ❤️
+Disfruto combinar **lógica, diseño y tecnología** para crear productos útiles y agradables de usar.
 
 ---
 
 ## 📬 ¿Colaboramos?
 
-Si quieres trabajar conmigo, platicar sobre UX, desarrollo, diseño o simplemente compartir ideas…
+Estoy abierta a:
+- oportunidades laborales
+- proyectos freelance
+- colaboración en proyectos
+- charlas sobre desarrollo y UX
 
-**¡Conectemos!** Estoy abierta a nuevos retos, porque **el aprendizaje nunca se detiene** 
+✨ **¡Conectemos!** El aprendizaje nunca se detiene.
 
 ---
 
-> “El diseño lo hace atractivo. El código lo hace posible. La pasión lo hace real.”
+<p align="center">
+  <em>“El diseño lo hace atractivo.  
+  El código lo hace posible.  
+  La pasión lo hace real.”</em>
+</p>
 
