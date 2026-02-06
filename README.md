@@ -7,8 +7,10 @@
 
 <p align="center">
   <a href="https://guadalupevillasana.com" target="_blank">🌐 Portafolio</a> •
-  <a href="https://github.com/Villasana4" target="_blank">💻 GitHub</a>
+  <a href="https://www.linkedin.com/in/guadalupe-villasana" target="_blank">💼 LinkedIn</a> •
+  <a href="mailto:vireyguadalupe@gmail.com">📫 Email</a>
 </p>
+
 
 ---
 
