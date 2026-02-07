@@ -36,13 +36,14 @@ Me gusta aprender nuevas tecnologías y usarlas para crear  **soluciones útiles
 
 
 <br>
-### 🧐 Más sobre mí
+
+<h3>🧐 <strong>Más sobre mí</strong></h3>
+
 
 
 <img align="right" alt="Coding girl"
      src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzQ1bGJ2bHVxZTBmZ2Y3Y3Y2dGk3aGR0eTQ3Z2w5cTJkdmJjZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hpXdHPfFI5wTABdDx9/giphy.gif"
      width="320"/>
-
 
 - 🚀 Trabajo en proyectos **FullStack** con Angular, Astro y .NET
 - 🎨 Diseño interfaces centradas en el usuario (UX/UI)
@@ -51,10 +52,11 @@ Me gusta aprender nuevas tecnologías y usarlas para crear  **soluciones útiles
 - 📫 Contáctame por LinkedIn o correo
 
 
-
-
 <br>
-###⚙️ **Stack tecnológico**
+<br>
+<br>
+
+<h3>⚙️ <strong>Stack tecnológico</strong></h3>
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="42" alt="Angular" />
