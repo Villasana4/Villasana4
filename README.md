@@ -29,26 +29,32 @@
 
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:38B2AC,100:512BD4&height=2"/>
-</p>
+Soy **Desarrolladora FullStack y Diseñadora UX/UI**, me adapto a distintos roles según lo que el proyecto necesita (frontend 💻, backend ⚙️ o diseño 🎨).
+Me gusta aprender nuevas tecnologías y usarlas para crear  **soluciones útiles, limpias y bien pensadas**.
 
-## ✨ Sobre mí
-
-🚀 **Desarrolladora FullStack** con experiencia en frontend y backend  
-🧠 **Autodidacta** y en aprendizaje constante  
-🎨 **Diseñadora UX/UI certificada**, enfocada en usabilidad y experiencia de usuario  
-🛠️ Me gusta el código limpio, el diseño ordenado y los proyectos bien pensados  
-
-> Creo en construir soluciones que no solo funcionen,  
-> sino que también sean fáciles de usar y agradables.
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:512BD4,100:38B2AC&height=2"/>
-</p>
+<br/><br/>
 
 
-## ⚙️ Stack tecnológico
+<br>
+### 🧐 Más sobre mí
+
+
+<img align="right" alt="Coding girl"
+     src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzQ1bGJ2bHVxZTBmZ2Y3Y3Y2dGk3aGR0eTQ3Z2w5cTJkdmJjZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hpXdHPfFI5wTABdDx9/giphy.gif"
+     width="320"/>
+
+
+- 🚀 Trabajo en proyectos **FullStack** con Angular, Astro y .NET
+- 🎨 Diseño interfaces centradas en el usuario (UX/UI)
+- 🧠 Soy autodidacta y aprendo constantemente
+- 💬 Puedes preguntarme sobre frontend, backend o diseño
+- 📫 Contáctame por LinkedIn o correo
+
+
+
+
+<br>
+###⚙️ **Stack tecnológico**
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="42" alt="Angular" />
