@@ -47,75 +47,47 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:512BD4,100:38B2AC&height=2"/>
 </p>
 
+
 ## 🧰 Tech Stack
 
-### 💻 Frontend
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white"/>
-</p>
 
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/>
-</p>
+  <img src="https://img.shields.io/badge/Angular-111111?style=for-the-badge&logo=angular&logoColor=DD0031"/>
+  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Astro-111111?style=for-the-badge&logo=astro&logoColor=FFFFFF"/>
 
-<p>
-  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Astro-000000?logo=astro&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+  <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+  <img src="https://img.shields.io/badge/Sass-111111?style=for-the-badge&logo=sass&logoColor=CC6699"/>
+  <img src="https://img.shields.io/badge/Bootstrap-111111?style=for-the-badge&logo=bootstrap&logoColor=7952B3"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-111111?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC"/>
+
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+
+  <img src="https://img.shields.io/badge/.NET-111111?style=for-the-badge&logo=dotnet&logoColor=512BD4"/>
+  <img src="https://img.shields.io/badge/C%23-111111?style=for-the-badge&logo=csharp&logoColor=239120"/>
+  <img src="https://img.shields.io/badge/Visual%20Basic-111111?style=for-the-badge&logo=dotnet&logoColor=512BD4"/>
+
+  <img src="https://img.shields.io/badge/REST%20APIs-111111?style=for-the-badge&logo=fastapi&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Swagger-111111?style=for-the-badge&logo=swagger&logoColor=85EA2D"/>
+
+  <img src="https://img.shields.io/badge/SQL%20Server-111111?style=for-the-badge&logo=microsoft-sql-server&logoColor=CC2927"/>
+  <img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+
+  <img src="https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=A8B9CC"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-111111?style=for-the-badge&logo=c%2B%2B&logoColor=00599C"/>
+
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB"/>
+
+  <img src="https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
+  <img src="https://img.shields.io/badge/Adobe%20XD-111111?style=for-the-badge&logo=adobe-xd&logoColor=FF61F6"/>
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-111111?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF"/>
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-111111?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00"/>
 </p>
+>
 
 ---
-
-### 🧠 Backend
-<p>
-  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white"/>
-</p>
-
-- Desarrollo de APIs REST
-- Lógica de negocio y servicios backend
-- Código claro y documentado  
-
-<em>También he trabajado con VB, C y C++ (sí, lo clásico también cuenta 😄).</em>
-
----
-
-### 🗃️ Bases de Datos
-<p>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"/>
-</p>
-
----
-
-### 🎨 UX / UI
-<p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?logo=adobe-xd&logoColor=white"/>
-</p>
-
-- Diseño centrado en el usuario  
-- Prototipado y diseño responsivo  
-- Certificación en UX y UI  
-
----
-
-### 🛠️ Herramientas
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:38B2AC,100:512BD4&height=2"/>
-</p>
-
 
 ## 📂 ¿Qué encontrarás en mis repositorios?
 
