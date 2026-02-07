@@ -47,14 +47,13 @@ Disfruto aprender nuevas tecnologías y aplicarlas para construir **soluciones e
 
 <h3>🧐 <strong>Más sobre mí</strong></h3>
 
+- 🚀 Desarrollo soluciones **FullStack** con Angular, Astro y .NET
+- 🎨 Diseño experiencias **UX/UI** funcionales y orientadas al usuario
+- 🧠 Autodidacta, con aprendizaje constante en nuevas tecnologías
+- 🤝 Experiencia como **freelancer**, liderando y coordinando equipos de trabajo
+- 💬 Abierta a conversar sobre frontend, backend y diseño
+- 📫 Disponible vía LinkedIn o correo
 
-
-
-- 🚀 Trabajo en proyectos **FullStack** con Angular, Astro y .NET
-- 🎨 Diseño interfaces centradas en el usuario (UX/UI)
-- 🧠 Soy autodidacta y aprendo constantemente
-- 💬 Puedes preguntarme sobre frontend, backend o diseño
-- 📫 Contáctame por LinkedIn o correo
 
 <br>
 <br>
@@ -97,9 +96,10 @@ Disfruto aprender nuevas tecnologías y aplicarlas para construir **soluciones e
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="42" alt="VSCode" />
 </p>
 
----
 
-## 📂 ¿Qué encontrarás en mis repositorios?
+<br/>
+
+<h3>📂 <strong>¿Qué encontrarás en mis repositorios?</strong></h3>
 
 ✔️ Aplicaciones completas (frontend + backend + BD)  
 ✔️ Interfaces cuidadas al detalle  
@@ -107,26 +107,26 @@ Disfruto aprender nuevas tecnologías y aplicarlas para construir **soluciones e
 ✔️ Repos de práctica con tecnologías modernas  
 ✔️ Código con enfoque en orden, claridad y mantenimiento  
 
----
+<br/>
 
-## 📊 Un poco de actividad
-
+<h3>📊 <strong>Un poco de actividad</strong></h3>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Villasana4&theme=tokyo-night&hide_border=true" />
 </p>
 
 
+<br/>
 
----
-
-## 📬 ¿Colaboramos?
+<h3>📬 <strong>¿Colaboramos?</strong></h3>
 
 Estoy abierta a:
 - oportunidades laborales
 - proyectos freelance
 - colaboración en proyectos
 - charlas sobre desarrollo y UX
+
+<br/>
 
 ✨ **¡Conectemos!** El aprendizaje nunca se detiene.
 
