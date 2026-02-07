@@ -41,7 +41,7 @@ Disfruto aprender nuevas tecnologías y aplicarlas para construir **soluciones e
 
 <br>
 <img align="right" alt="Coding girl"
-     src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWxudnRnZnRjOWNpZGJ5eDFuZjlndjM3a2g5c3R0Nnhnc2UxNjNjNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nFLW7PNGgN3lI68rdv/giphy.gif"
+     src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXo5N2x0dWQzY290dm54eDR2cWo1ZW54MGhjdXQxeTRwcWQxeWQ3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/px9v45I39CcxyXPqEy/giphy.gif"
      width="320"/>
 
 <h3>🧐 <strong>Más sobre mí</strong></h3>
