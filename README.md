@@ -11,8 +11,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=38B2AC&center=true&vCenter=true&width=650&lines=FullStack+Developer;UX%2FUI+Designer;Angular+%7C+Astro+%7C+.NET;Aprendiendo+y+construyendo+cada+d%C3%ADa" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=600&color=6B7280&center=true&vCenter=true&width=680&lines=Desarrolladora+FullStack;Dise%C3%B1adora+UX%2FUI;Angular+%7C+SQL+Server+%7C+.NET;Freelancer+y+l%C3%ADder+de+equipos;Aprendiendo+y+construyendo+cada+d%C3%ADa"
+  />
 </p>
+
 
 <p align="center">
   <a href="https://guadalupevillasana.com" target="_blank">
@@ -29,10 +32,10 @@
 
 
 
-Soy **Desarrolladora FullStack y Diseñadora UX/UI**, me adapto a distintos roles según lo que el proyecto necesita (frontend 💻, backend ⚙️ o diseño 🎨).
-Me gusta aprender nuevas tecnologías y usarlas para crear  **soluciones útiles, limpias y bien pensadas**.
+Soy **Desarrolladora FullStack** y **Diseñadora UX/UI**, con experiencia como **freelancer**. 
+Me adapto a distintos roles según las necesidades del proyecto (frontend 💻, backend ⚙️ o diseño 🎨) y cuento con experiencia **liderando equipos de trabajo**, gestionando tiempos, prioridades y comunicación técnica.
 
-<br/><br/>
+Disfruto aprender nuevas tecnologías y aplicarlas para construir **soluciones eficientes, limpias y orientadas al usuario**.
 
 
 <br>
