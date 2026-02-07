@@ -40,14 +40,14 @@ Disfruto aprender nuevas tecnologías y aplicarlas para construir **soluciones e
 
 
 <br>
+<img align="right" alt="Coding girl"
+     src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWxudnRnZnRjOWNpZGJ5eDFuZjlndjM3a2g5c3R0Nnhnc2UxNjNjNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nFLW7PNGgN3lI68rdv/giphy.gif"
+     width="320"/>
 
 <h3>🧐 <strong>Más sobre mí</strong></h3>
 
 
 
-<img align="right" alt="Coding girl"
-     src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzQ1bGJ2bHVxZTBmZ2Y3Y3Y2dGk3aGR0eTQ3Z2w5cTJkdmJjZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hpXdHPfFI5wTABdDx9/giphy.gif"
-     width="320"/>
 
 - 🚀 Trabajo en proyectos **FullStack** con Angular, Astro y .NET
 - 🎨 Diseño interfaces centradas en el usuario (UX/UI)
@@ -55,7 +55,7 @@ Disfruto aprender nuevas tecnologías y aplicarlas para construir **soluciones e
 - 💬 Puedes preguntarme sobre frontend, backend o diseño
 - 📫 Contáctame por LinkedIn o correo
 
-
+<br>
 <br>
 <br>
 <br>
