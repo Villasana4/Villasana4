@@ -17,24 +17,6 @@
 </p>
 
 
-<p align="center">
-  <a href="https://guadalupevillasana.com" target="_blank" title="Portafolio">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="28" alt="Portafolio" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/guadalupe-villasana" target="_blank" title="LinkedIn">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="28" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:vireyguadalupe@gmail.com" title="Email">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="28" alt="Email" />
-  </a>
-</p>
-
-
-
-
-
 
 <p align="center">
   <a href="https://guadalupevillasana.com" target="_blank">
