@@ -130,18 +130,6 @@ Disfruto aprender nuevas tecnologías y aplicarlas para construir **soluciones e
 
 <br/>
 
-<h3>📬 <strong>¿Colaboramos?</strong></h3>
-
-Estoy abierta a:
-- oportunidades laborales
-- proyectos freelance
-- colaboración en proyectos
-- charlas sobre desarrollo y UX
-
-<br/>
-
-✨ **¡Conectemos!** El aprendizaje nunca se detiene.
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:38B2AC,100:512BD4&height=2"/>
 </p>
