@@ -111,11 +111,12 @@ Disfruto aprender nuevas tecnologías y aplicarlas para construir **soluciones e
 
 <h3>📂 <strong>¿Qué encontrarás en mis repositorios?</strong></h3>
 
-✔️ Aplicaciones completas (frontend + backend + BD)  
-✔️ Interfaces cuidadas al detalle  
-✔️ Proyectos personales en constante mejora  
-✔️ Repos de práctica con tecnologías modernas  
-✔️ Código con enfoque en orden, claridad y mantenimiento  
+✔️ Aplicaciones **FullStack** funcionales, de punta a punta  
+✔️ Interfaces bien diseñadas y pensadas para el usuario  
+✔️ Proyectos personales en constante iteración y mejora  
+✔️ Implementaciones con tecnologías actuales y buenas prácticas  
+✔️ Código claro, estructurado y fácil de escalar  
+
 
 <br/>
 
@@ -124,6 +125,7 @@ Disfruto aprender nuevas tecnologías y aplicarlas para construir **soluciones e
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Villasana4&theme=tokyo-night&hide_border=true" />
 </p>
+
 
 
 <br/>
