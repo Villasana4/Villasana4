@@ -12,7 +12,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=500&color=2F855A&center=true&vCenter=true&width=680&lines=Desarrolladora+FullStack;Dise%C3%B1adora+UX%2FUI;Angular+%7C+SQL+Server+%7C+.NET"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=500&color=7C3AED&center=true&vCenter=true&width=680&lines=Desarrolladora+FullStack;Dise%C3%B1adora+UX%2FUI;Angular+%7C+SQL+Server+%7C+.NET"
   />
 </p>
 
